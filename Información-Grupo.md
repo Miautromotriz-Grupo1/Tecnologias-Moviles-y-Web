@@ -1,6 +1,7 @@
 # Información del Grupo
 
 **Grupo número:** 1 
+
 **Integrantes:**
 - Juan Álvarez
 - Ricardo González
