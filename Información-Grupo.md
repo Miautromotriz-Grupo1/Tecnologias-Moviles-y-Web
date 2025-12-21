@@ -5,7 +5,6 @@
 **Integrantes:**
 - Juan Álvarez
 - Ricardo González
-- Sergio Meza (actualmente en situación de expulsión)
 - Monserrat Palma
 - Nicolas Paredes
 - Javier Quezada
